@@ -34,9 +34,6 @@
 
 
 4.知乎用户写文章篇数人数分布
-不在知乎上写文章的占到了45w，差不多90%吧，说明知乎用户大多数都是看文章，看回答，内容生产者只有10%。
-
-![知乎用户写文章篇数人数分布情况](http://upload-images.jianshu.io/upload_images/2279594-872f0a771e6ea438.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/600)
 
 ### 四、爬虫架构
 
