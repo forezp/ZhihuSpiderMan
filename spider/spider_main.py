@@ -5,8 +5,8 @@ new_url_tokens = set()
 old_url_tokens = set()
 saved_users_set = set()
 
-URL_TEMPLATE = "https://www.zhihu.com";
-QUERY_PARAMS = "";
+URL_TEMPLATE = "https://www.zhihu.com/api/v4/members/{0}/followees";
+QUERY_PARAMS = "?include=data%5B*%5D.url_token&offset=0&per_page=30&limit=30";
 
 
 def download(url):
