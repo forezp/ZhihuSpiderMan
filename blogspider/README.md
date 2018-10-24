@@ -1,3 +1,14 @@
+<div>
+    <p align="center">
+        <img src="https://www.fangzhipeng.com/img/avatar.jpg" width="258" height="258"/>
+        <br>
+        扫码关注公众号有惊喜
+    </p>
+    <p align="center" style="margin-top: 15px; font-size: 11px;color: #cc0000;">
+        <strong>（转载本站文章请注明作者和出处 <a href="https://www.fangzhipeng.com">方志朋的博客</a>）</strong>
+    </p>
+</div>
+
 # Python爬虫，看看我最近博客都写了啥，带你制作高逼格的数据聚合云图
 
 今天看了简书的作者[向右奔跑]的文章，一时兴趣来了，想用python爬爬自己的博客，通过数据聚合，制作高逼格的云图(对词汇出现频率视觉上的展示)，看看最近我到底写了啥文章。
